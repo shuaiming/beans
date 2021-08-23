@@ -1,3 +1,3 @@
 # beans
 
-小豆子。
+小豆子。**DEPRECATED**
